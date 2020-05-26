@@ -1,5 +1,7 @@
 {
   "name": "projeto3M",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
