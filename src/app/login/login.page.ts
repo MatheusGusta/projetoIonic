@@ -24,7 +24,7 @@ export class LoginPage implements OnInit {
   ionViewWillEnter(){
     this.menu.swipeGesture(false);
   }
-
+  
   ionViewDidLeave(){
     this.menu.swipeGesture(true);
   }
